@@ -1,0 +1,13 @@
+.projects-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+  
